@@ -1,0 +1,75 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 2rem;
+    text-align: center;
+}
+
+.features {
+    padding: 2rem;
+    text-align: center;
+}
+
+.features ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.features li {
+    margin-bottom: 1rem;
+}
+
+.testimonials {
+    padding: 2rem;
+    text-align: center;
+}
+
+.testimonial {
+    margin-bottom: 2rem;
+}
+
+.testimonial p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.testimonial cite {
+    font-style: italic;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}

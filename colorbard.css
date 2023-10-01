@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  nav {
+    float: right;
+  }
+  
+  nav a {
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #hero {
+    text-align: center;
+  }
+  
+  #solutions {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #solutions li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  #testimonials {
+    text-align: center;
+  }
+  
+  blockquote {
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  #contact {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #ccc;
+  }
+  
