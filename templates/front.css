@@ -1,0 +1,107 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    background-color: #adff2f;
+    color: #333;
+    padding: 2rem;
+    text-align: center;
+}
+
+.features {
+    background-color: #adff2f;
+    color: #333;
+    padding: 2rem;
+    text-align: center;
+}
+
+.features ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.features li {
+    margin-bottom: 1rem;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.testimonials {
+    background-color: #adff2f;
+    color: #333;
+    padding: 2rem;
+    text-align: center;
+}
+
+.hero {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.cta-button:hover {
+    background-color: #555;
+}
+
+.a1{
+    color: #adff2f;
+}
+.testimonial {
+    margin-bottom: 2rem;
+}
+
+.testimonial p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.testimonial cite {
+    font-style: italic;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
